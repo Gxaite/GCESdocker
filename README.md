@@ -1,4 +1,36 @@
+
 # GCESdocker
+# Docker – Introdução
+
+## Docker
+- Diferença entre containers e máquinas virtuais
+- Ferramenta para empacotar aplicações com suas dependências
+- Separação de responsabilidades
+
+## Registries
+- Docker Hub
+- GitLab Container Registry
+- GitHub Container Registry
+
+## Conceitos Fundamentais
+
+### 🧱 Imagem
+- Snapshot imutável com tudo o que o container precisa para rodar.
+
+### 📦 Container
+- Instância em execução de uma imagem; leve e isolado.
+
+### 📄 Dockerfile
+- Script declarativo para construir imagens personalizadas.
+
+### 📁 Volumes
+- Permitem persistência de dados fora do container.
+
+### 🌐 Portas e Redes
+- Expõem serviços de containers e permitem comunicação entre eles.
+
+
+
 
 
 # Configurar o repositório apt do Docker.
